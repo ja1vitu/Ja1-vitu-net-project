@@ -1,7 +1,7 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=",
+  "UrlUpdate": "https://raw.githubusercontent.com/ja1vitu/teste/main/config.json",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
   "UrlContato": "https://wa.me/±5538999604877",
   "CheckUser": "true",
