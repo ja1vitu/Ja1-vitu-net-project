@@ -17,7 +17,18 @@
       "SSLPort": "443,80",
       "USER": "",
       "PASS": ""
-    }
+    },
+    {
+      "Name": "SERVER CLOUD",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "pudim.hyvozin.ml",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "rbs+*dooG",
+      "PASS": "rbs+*dooG"
+    },
   ],
   "Networks": [
     {
@@ -51,13 +62,13 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💜VIVO EASY 1",
+      "Name": "VIVO EASY",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ja1vitu[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "http://pudim.hyvozin.ml",
-      "ProxyPort": "443",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
   ]
