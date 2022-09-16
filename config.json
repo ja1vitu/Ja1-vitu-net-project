@@ -46,7 +46,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "bam.nr-data.net",
-      "TlsIP": "162.247.241.14",
+      "TlsIP": "bam.nr-data.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
