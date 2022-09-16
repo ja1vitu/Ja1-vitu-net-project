@@ -194,15 +194,5 @@
       "ProxyPort": "80",
       "Info": "Proxy"
    },
-   {
-      "Name": "☞>📱CLARO 𝟰𝗚 𝟬𝟭 📡 🔴",
-      "FLAG": "claro",
-      "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
-      "SNI": "player-api.new.livestream.com", 
-      "TlsIP": "player-api.new.livestream.com", 
-      "ProxyIP": "", 
-      "ProxyPort": "", 
-      "Info": "Tlsws" 
-    },
   ]
 }
