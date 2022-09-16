@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/ja1vitu/teste/main/config.json",
   "Sms": "https://raw.githubusercontent.com/ja1vitu/teste/main/sms",
@@ -32,12 +32,12 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO",
+      "Name": "VIVO EASY",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ja1vitu[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "pudim.hyvozin.ml",
+      "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -58,16 +58,6 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.82",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ja1vitu[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
